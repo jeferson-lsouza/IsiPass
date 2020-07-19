@@ -1,13 +1,13 @@
 # IsiLog Library 
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@Jeferso28179293-blue.svg?style=flat-square)](https://twitter.com/Jeferso28179293)
-[![Source Code](http://img.shields.io/badge/source-jeferson-lsouza/isipass-blue.svg?style=flat-square)](https://github.com/jeferson-lsouza/isipass)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/jeferson-lsouza/isipass.svg?style=flat-square)](https://packagist.org/packages/jeferson-lsouza/isipass)
-[![Latest Version](https://img.shields.io/github/release/jeferson-lsouza/isipass.svg?style=flat-square)](https://github.com/jeferson-lsouza/isipass/releases)
+[![Source Code](http://img.shields.io/badge/source-jeferson-lsouza/IsiPass-blue.svg?style=flat-square)](https://github.com/jeferson-lsouza/IsiPass)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/jeferson-lsouza/IsiPass.svg?style=flat-square)](https://packagist.org/packages/jeferson-lsouza/IsiPass)
+[![Latest Version](https://img.shields.io/github/release/jeferson-lsouza/IsiPass.svg?style=flat-square)](https://github.com/jeferson-lsouza/isipass/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/jeferson-lsouza/isipass.svg?style=flat-square)](https://scrutinizer-ci.com/g/jeferson-lsouza/isipass)
-[![Quality Score](https://img.shields.io/scrutinizer/g/jeferson-lsouza/isipass.svg?style=flat-square)](https://scrutinizer-ci.com/g/jeferson-lsouza/isipass)
-[![Total Downloads](https://img.shields.io/packagist/dt/jeferson-lsouza/isipass.svg?style=flat-square)](https://packagist.org/packages/jeferson-lsouza/isipass)
+[![Build](https://img.shields.io/scrutinizer/build/g/jeferson-lsouza/IsiPass.svg?style=flat-square)](https://scrutinizer-ci.com/g/jeferson-lsouza/IsiPass)
+[![Quality Score](https://img.shields.io/scrutinizer/g/jeferson-lsouza/IsiPass.svg?style=flat-square)](https://scrutinizer-ci.com/g/jeferson-lsouza/IsiPass)
+[![Total Downloads](https://img.shields.io/packagist/dt/jeferson-lsouza/IsiPass.svg?style=flat-square)](https://packagist.org/packages/jeferson-lsouza/IsiPass)
 
 ###### IsiPass Library 
 IsiPass Library is a set of classes developed for password creation and verification.
