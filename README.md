@@ -118,10 +118,10 @@ Thank you
 
 ## Credits
 
-- [Jeferson L. Souza](https://github.com/JefersonLSouza) (Developer)
-- [Soluções Inteligentes](https://github.com/JefersonLSouza) (Team)
-- [All Contributors](https://github.com/JefersonLSouza/IsiPass/contributors) (Power)
+- [Jeferson L. Souza](https://github.com/Jeferson-LSouza) (Developer)
+- [Soluções Inteligentes](https://github.com/Jeferson-LSouza) (Team)
+- [All Contributors](https://github.com/Jeferson-LSouza/IsiPass/contributors) (Power)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/JefersonLSouza/IsiLogblob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/JefersonLSouza/IsiPassblob/master/LICENSE) for more information.
