@@ -1,0 +1,32 @@
+{
+  "name": "JefersonLSouza/IsiPass",
+  "description": "Componente responsável para gestão e criação de senhas.",
+  "keywords": [
+    "Bcrypt PHP",
+    "Isi",
+    "Jeferson L Souza",
+    "Jeferson Souza",
+    "IsiPass",
+    "Password PHP",
+    "Bcrypt"
+  ],
+  "homepage": "http://interligsolucoes.com.br/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeferson Souza",
+      "email": "contato@interligsolucoes.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "JefersonLSouza\\IsiPass\\": "Developers"
+    }
+  }
+}
