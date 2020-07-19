@@ -1,5 +1,5 @@
 {
-  "name": "JefersonLSouza/IsiPass",
+  "name": "jeferson-lsouza/isipass",
   "description": "Componente responsável para gestão e criação de senhas.",
   "keywords": [
     "Bcrypt PHP",
@@ -20,13 +20,11 @@
     }
   ],
   "require": {
-    "php": "^7.0",
-    "ext-json": "*",
-    "ext-curl": "*"
+    "php": "^7.0"
   },
   "autoload": {
     "psr-4": {
-      "JefersonLSouza\\IsiPass\\": "Developers"
+      "Developers\\": "Developers"
     }
   }
 }
